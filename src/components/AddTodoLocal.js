@@ -43,7 +43,7 @@ function AddTodoLocal() {
       <h1>Add ToDo LocalStorage </h1>
       <div style={{display:'flex',justifyContent:'center'}}>
         <input type="text" value={inputList} onChange={handleChange}/>
-        <button onClick={handleItemAdd}>Add Item</button>
+        <button onClick={handleItemAdd}>Add Items</button>
         
       </div>  
       <div>
