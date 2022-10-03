@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aquibaddtodo.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/aquibaddtodo.github.io/static/js/main.1497b514.js",
+    "main.js": "/aquibaddtodo.github.io/static/js/main.bd9a9610.js",
     "static/js/787.0fe62432.chunk.js": "/aquibaddtodo.github.io/static/js/787.0fe62432.chunk.js",
     "index.html": "/aquibaddtodo.github.io/index.html",
     "main.073c9b0a.css.map": "/aquibaddtodo.github.io/static/css/main.073c9b0a.css.map",
-    "main.1497b514.js.map": "/aquibaddtodo.github.io/static/js/main.1497b514.js.map",
+    "main.bd9a9610.js.map": "/aquibaddtodo.github.io/static/js/main.bd9a9610.js.map",
     "787.0fe62432.chunk.js.map": "/aquibaddtodo.github.io/static/js/787.0fe62432.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1497b514.js"
+    "static/js/main.bd9a9610.js"
   ]
 }
