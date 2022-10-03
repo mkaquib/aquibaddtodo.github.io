@@ -51,7 +51,7 @@ function AddTodoLocal() {
             {item.map((val,ind)=>{
                 return (
                 <div style={{display:'flex',flexDirection:'row',justifyContent:'center', gap:'10px', alignItems:'center'}}>
-                <p style={{backgroundColor:'blue',padding:'5px',color:'white', width:'15s0px'}} key={ind}>{val}</p>
+                <p style={{backgroundColor:'blue',padding:'5px',color:'white', width:'150px'}} key={ind}>{val}</p>
                 <i className='fa fa-trash add-btn' onClick={()=>handleDelete(ind)}></i>
                 </div>
                 )
